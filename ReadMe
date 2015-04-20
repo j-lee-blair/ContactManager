@@ -1,0 +1,8 @@
+Address Book
+
+This program allows users to keep a list of contacts and addresses.
+Users can add, edit and delete from the contact list
+
+using arrays and iterating through them
+using constructors for the first time
+using properties for the first time
